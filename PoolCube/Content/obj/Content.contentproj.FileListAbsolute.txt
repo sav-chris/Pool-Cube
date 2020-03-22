@@ -1,0 +1,4 @@
+C:\Users\Chris\Desktop\Trade Show\PoolCube\PoolCube\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\Trade Show\PoolCube\PoolCube\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Chris\The APE Project\development\history\Trade Show\PoolCube\PoolCube\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\Content\obj\x86\Release\ResolveAssemblyReference.cache

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="PoolCube.Ball" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Ball.cs</FileName>
+      <HashCode>AAAAEAAAAAAAQgIgAEAAAAQBIAAAACAAMBAAAAAEAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.Balls" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Balls.cs</FileName>
+      <HashCode>AAAAAAgAIAAABgADAACABAAACAAIEAAAIAAAJAAAAiA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.Camera" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Camera.cs</FileName>
+      <HashCode>ABEAAQAEAbEEDACAAAAAChAAARMCEgAIQACAIBiAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.CommonFunctions" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CommonFunctions.cs</FileName>
+      <HashCode>AAAAEAAAAABAAACAAAAAAAAAAAAAAAAAACAAAAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.Game1" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Game1.cs</FileName>
+      <HashCode>AAQIEEAAAgAAAwAAAAQIAAQwAAAAACgAAggAAgIAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.GameVariables" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GameVariables.cs</FileName>
+      <HashCode>IBAgCEgMAoBQIqABBEACCAAkAAAGACCEIIUBQUUhABo=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.ObserveCamera" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ObserveCamera.cs</FileName>
+      <HashCode>ABAAAAAAATAAAAAAAAAAAgAAARIAEAAAAAAAAAiAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.PlayerControls" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PlayerControls.cs</FileName>
+      <HashCode>ACAAQAoAFIAABECiIACIEAEiACDAAACAIAAAAEgQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.Program" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.Room" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Room.cs</FileName>
+      <HashCode>FAEAAAAAAAAAQoAAAAAAAAAAAAAgBICAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.Score" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Score.cs</FileName>
+      <HashCode>AAAIiAAQAAAAAAAAAAAAAAAAAAIAAAACABQAAAAMAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.SimpleCamera" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SimpleCamera.cs</FileName>
+      <HashCode>ABEAAQAAATEECAAAAAAAAhAAARMAEIAIQACAIAiAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PoolCube.TargetCamera" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TargetCamera.cs</FileName>
+      <HashCode>ABAAAAAAATEEDIAAAACAAhAAARMAEAAAAACAIBiAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PoolCube.CameraMode" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CameraMode.cs</FileName>
+      <HashCode>AAAAAAAAAAAAIAgAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PoolCube.GameMode" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GameMode.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAIgAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

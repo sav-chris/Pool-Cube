@@ -1,0 +1,898 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\Wall.x</Source>
+      <Name>Models\Wall</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\Wall.xnb</Output>
+      <Time>2008-10-26T23:09:46+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\Wall%0.xml</Key>
+        <Value>2009-05-14T16:59:13.1244658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\Wallwood%0.xnb</Request>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\Wallmat%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_01.x</Source>
+      <Name>Models\ball_01</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_01.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_01%0.xml</Key>
+        <Value>2009-05-14T16:59:16.1394658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\01%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_02.x</Source>
+      <Name>Models\ball_02</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_02.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_02%0.xml</Key>
+        <Value>2009-05-14T16:59:16.9404658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\02%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_03.x</Source>
+      <Name>Models\ball_03</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_03.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_03%0.xml</Key>
+        <Value>2009-05-14T16:59:17.7044658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\03%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_04.x</Source>
+      <Name>Models\ball_04</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_04.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_04%0.xml</Key>
+        <Value>2009-05-14T16:59:18.4144658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\04%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_05.x</Source>
+      <Name>Models\ball_05</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_05.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_05%0.xml</Key>
+        <Value>2009-05-14T16:59:19.0624658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\05%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_06.x</Source>
+      <Name>Models\ball_06</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_06.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_06%0.xml</Key>
+        <Value>2009-05-14T16:59:19.8084658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\06%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_07.x</Source>
+      <Name>Models\ball_07</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_07.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_07%0.xml</Key>
+        <Value>2009-05-14T16:59:20.4844658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\07%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_08.x</Source>
+      <Name>Models\ball_08</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_08.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_08%0.xml</Key>
+        <Value>2009-05-14T16:59:22.3974658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\08%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_09.x</Source>
+      <Name>Models\ball_09</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_09.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_09%0.xml</Key>
+        <Value>2009-05-14T16:59:23.5134658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\09%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_10.x</Source>
+      <Name>Models\ball_10</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_10.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_10%0.xml</Key>
+        <Value>2009-05-14T16:59:24.3644658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\10%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_11.x</Source>
+      <Name>Models\ball_11</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_11.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_11%0.xml</Key>
+        <Value>2009-05-14T16:59:25.0754658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\11%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_12.x</Source>
+      <Name>Models\ball_12</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_12.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_12%0.xml</Key>
+        <Value>2009-05-14T16:59:26.0604658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\12%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_13.x</Source>
+      <Name>Models\ball_13</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_13.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_13%0.xml</Key>
+        <Value>2009-05-14T16:59:26.9964658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\13%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_14.x</Source>
+      <Name>Models\ball_14</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_14.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_14%0.xml</Key>
+        <Value>2009-05-14T16:59:27.8034658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\14%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_15.x</Source>
+      <Name>Models\ball_15</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_15.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_15%0.xml</Key>
+        <Value>2009-05-14T16:59:28.6504658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\15%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_16.x</Source>
+      <Name>Models\ball_16</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_16.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_16%0.xml</Key>
+        <Value>2009-05-14T16:59:29.8284658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\16%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_17.x</Source>
+      <Name>Models\ball_17</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_17.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_17%0.xml</Key>
+        <Value>2009-05-14T16:59:30.4954658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\17%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_18.x</Source>
+      <Name>Models\ball_18</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_18.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_18%0.xml</Key>
+        <Value>2009-05-14T16:59:31.1954658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\18%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_19.x</Source>
+      <Name>Models\ball_19</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_19.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_19%0.xml</Key>
+        <Value>2009-05-14T16:59:31.8844658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\19%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_20.x</Source>
+      <Name>Models\ball_20</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_20.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_20%0.xml</Key>
+        <Value>2009-05-14T16:59:32.5624658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\20%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_extra.x</Source>
+      <Name>Models\ball_extra</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_extra.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_extra%0.xml</Key>
+        <Value>2009-05-14T16:59:33.2314658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\extra%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ball_white.x</Source>
+      <Name>Models\ball_white</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Models\ball_white.xnb</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Models\ball_white%0.xml</Key>
+        <Value>2009-05-14T16:59:33.9294658+10:00</Value>
+      </Dependency>
+      <Request>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\cue%0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Fonts\Lucida Console.spritefont</Source>
+      <Name>Fonts\Lucida Console</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Fonts\Lucida Console.xnb</Output>
+      <Time>2008-10-26T23:09:50+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WhitePixel.jpg</Source>
+      <Name>Textures\WhitePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\Textures\WhitePixel.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Wall.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\Wall%0.xml</Output>
+      <Time>2008-10-26T23:09:46+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Wallwood.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\Wallwood%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Wallmat.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\Wallmat%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_01.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_01%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\01.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\01%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_02.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_02%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\02.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\02%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_03.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_03%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\03.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\03%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_04.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_04%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\04.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\04%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_05.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_05%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\05.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\05%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_06.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_06%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\06.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\06%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_07.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_07%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\07.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\07%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_08.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_08%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\08.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\08%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_09.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_09%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\09.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\09%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_10.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_10%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\10.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\10%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_11.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_11%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\11.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\11%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_12.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_12%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\12.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\12%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_13.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_13%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\13.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\13%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_14.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_14%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\14.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\14%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_15.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_15%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\15.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\15%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_16.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_16%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\16.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\16%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_17.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_17%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\17.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\17%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_18.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_18%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\18.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\18%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_19.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_19%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\19.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\19%0.xnb</Output>
+      <Time>2008-10-26T23:09:49+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_20.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_20%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\20.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\20%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_extra.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_extra%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\extra.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\extra%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ball_white.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Models\ball_white%0.xml</Output>
+      <Time>2008-10-26T23:09:45+10:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\cue.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\textures\cue%0.xnb</Output>
+      <Time>2008-10-26T23:09:48+10:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <RootDirectory>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Chris\Projects\The APE Project\development\history\Trade Show\PoolCube\PoolCube\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-10-03T03:40:41+10:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
